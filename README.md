@@ -4,4 +4,4 @@ Web Developer Task -Calculator Task
 
 [Task Calculator](https://docs.google.com/document/d/1VyZJG0KZAoZEs3h_lpP65XPekNqsbFp8bouOZSWsOTc/edit)
 
-![Test Image 2]('output.png')
+![Test Image 2](output.png)
